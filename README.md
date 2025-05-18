@@ -1,3 +1,6 @@
+## This cloned repo is made to work with the latest python versions (3.8.x to 3.10.x)
+This is a clone of Michael Nielsen repository and is meant to be updated with the latest Python and dependencies versions. Most things are being updated and currently work. This is meant to be updated and adapted for personal education and learning.
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
